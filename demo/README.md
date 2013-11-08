@@ -19,7 +19,7 @@ If you run into trouble, check out the [Troubleshooting section](../README.md#tr
   * Then run:
 
 ```bash
-git checkout https://github.com/cloudera/cdk-examples.git
+git clone https://github.com/cloudera/cdk-examples.git
 cd cdk-examples
 git checkout <latest-branch>
 cd demo
